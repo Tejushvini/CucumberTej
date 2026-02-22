@@ -14,4 +14,4 @@ Feature: Home page check
 
     Examples:
       |email             |password  |
-      |cucumber@gmail.com|Cucumber@123|
+      |tej1@gmail.com|@123456789|
